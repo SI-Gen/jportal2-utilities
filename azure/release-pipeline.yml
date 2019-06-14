@@ -51,6 +51,6 @@ jobs:
       action: 'create'
       target: '$(Build.SourceVersion)'
       tagSource: 'auto'
-      title: JPortal2 v$(project_version)
+      title: JPortal2 Utilities v$(project_version)
       assets: 'target/jportal2-utilities*.jar'
     displayName: 'Create GitHub release'
