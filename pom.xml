@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>za.co.bbd</groupId>
-    <artifactId>jportal-utilities</artifactId>
+    <artifactId>jportal2-utilities</artifactId>
     <version>1.0.0-SNAPSHOT</version>
 
     <dependencies>
