@@ -78,7 +78,7 @@
         </developer>
     </developers>
 
-    <name>JPortal2</name>
+    <name>JPortal2 Utilities</name>
     <url>https://github.com/SI-Gen/jportal2-utilities</url>
 
     <dependencies>
